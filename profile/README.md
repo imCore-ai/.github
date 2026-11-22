@@ -10,10 +10,11 @@
 </p>
 
 <p align="center">
-  <a href="https://imcore.ai/core-studio.html">Explore Core Studio</a> ·
   <a href="https://imcore.ai/core-studio.html">Watch the film</a> ·
-  <a href="https://imcore.ai/core-studio.html">Get early access</a> ·
-  <a href="https://imcore.ai">imcore.ai</a>
+  <a href="https://imcore.ai/core-studio.html#pipeline">The pipeline</a> ·
+  <a href="https://imcore.ai/core-studio.html#agents">The 24 agents</a> ·
+  <a href="https://imcore.ai/core-studio.html#teams">For teams</a> ·
+  <a href="https://imcore.ai/core-studio.html#onset">On set</a>
 </p>
 
 ---
@@ -22,34 +23,35 @@
 
 [**Core Studio**](https://imcore.ai/core-studio.html) is a complete, end-to-end solution for
 professional filmmaking, made for filmmakers by filmmakers. Your whole crew works together in
-one project, helped by **24+ craft agents** that know the job.
-[See how it works →](https://imcore.ai/core-studio.html)
+one project, powered by [**24 agents**, each with a professional craft](https://imcore.ai/core-studio.html#agents).
+[See the pipeline →](https://imcore.ai/core-studio.html#pipeline)
 
 ### The pipeline, from script to delivery
 
-| | Stage | In [Core Studio](https://imcore.ai/core-studio.html) |
+| | Stage | In [Core Studio](https://imcore.ai/core-studio.html#pipeline) |
 |---|---|---|
-| 01 | [**Story**](https://imcore.ai/core-studio.html) | Agent Teyo writes with you and charts every character's arc. |
-| 02 | [**Cast**](https://imcore.ai/core-studio.html) | Agents find the candidates to audition, then design hair, makeup and wardrobe. |
-| 03 | [**Scout**](https://imcore.ai/core-studio.html) | From set design to a 360 panorama to a 3D world you can walk into. |
-| 04 | [**Rehearse**](https://imcore.ai/core-studio.html) | Your whole crew acts the scene out under your direction. |
-| 05 | [**Storyboard**](https://imcore.ai/core-studio.html) | Agent Rinu draws the board from the rehearsal; the War Room lays out every board. |
-| 06 | [**Images**](https://imcore.ai/core-studio.html) | Imaginar, Poser and the Style Library keep your look. |
-| 07 | [**Video**](https://imcore.ai/core-studio.html) | 30+ tools: recast, lip sync, relight, reframe, extend, change the time of day, swap the location. |
-| 08 | [**Previs**](https://imcore.ai/core-studio.html) | Agent Benda turns the rehearsal into 3D and moves the camera where you ask. |
-| 09 | [**Comp**](https://imcore.ai/core-studio.html) | A node graph your VFX team already knows, with 300+ nodes. |
-| 10 | [**Edit**](https://imcore.ai/core-studio.html) | Cut the film with an agent that reads your script. |
-| 11 | [**Grade**](https://imcore.ai/core-studio.html) | Colour the film with a colorist agent at your side. |
-| 12 | [**Finish**](https://imcore.ai/core-studio.html) | Finish every shot to delivery quality. |
-| 13 | [**Deliver**](https://imcore.ai/core-studio.html) | Deliver the finished film. |
+| 01 | [**Story**](https://imcore.ai/core-studio.html#story) | Agent Teyo writes the story with you and charts every character's arc. |
+| 02 | [**Cast**](https://imcore.ai/core-studio.html#cast) | Agents find the candidates to audition, then design the hair, the makeup and the wardrobe. |
+| 03 | [**Scout**](https://imcore.ai/core-studio.html#scout) | From set design to a 360 panorama to 3D Gaussian splats: a world you can walk into. |
+| 04 | [**Rehearse**](https://imcore.ai/core-studio.html#rehearse) | Before a single frame is drawn, your whole crew acts the scene out under your direction. |
+| 05 | [**Storyboard**](https://imcore.ai/core-studio.html#board) | Agent Rinu draws the board from the rehearsal; the War Room lays out every board of your film. |
+| 06 | [**Images**](https://imcore.ai/core-studio.html#images) | Imaginar, Poser and the Style Library: make your images and keep your look. |
+| 07 | [**Video**](https://imcore.ai/core-studio.html#video) | Over thirty tools: recast an actor, sync the lips, relight, reframe, extend, change the time of day, swap the location. |
+| 08 | [**Previs**](https://imcore.ai/core-studio.html#previs) | Agent Benda turns the rehearsal into 3D and moves the camera where you ask. |
+| 09 | [**Comp**](https://imcore.ai/core-studio.html#comp) | A node graph your VFX team already knows: 300+ nodes, 20+ AI nodes. Ask agent Como for a shot. |
+| 10 | [**Edit**](https://imcore.ai/core-studio.html#edit) | A production-proven editor. Ask agent Emmel for a cut, and it lands on the timeline. |
+| 11 | [**Grade**](https://imcore.ai/core-studio.html#grade) | ACES and OCIO colour management. Tell agent Nicol the feeling, and she builds the look. |
+| 12 | [**Finish**](https://imcore.ai/core-studio.html#finish) | Real Engine takes AI footage to a production-grade finish: Real Video, Real Revive, Real Upscale, Real HDR. |
+| 13 | [**Deliver**](https://imcore.ai/core-studio.html#deliver) | A cinema-grade finish: 16-bit HDR, ProRes 4444 and EXR masters, and a DCP for the big screen. |
 
 ### Why filmmakers choose [Core Studio](https://imcore.ai/core-studio.html)
 
 - **No prompt box.** You work the way your craft works; [Core Studio](https://imcore.ai/core-studio.html) carries the instruction.
 - **Fewer choices, more possibilities.** Choosing between AI models is our job. You choose what to make.
 - **Go straight to creating.** No courses, no tutorials. Advanced technique works quietly behind tools that feel familiar.
-- **Made for teams.** Import your script and the agents build the **Story Atlas**, shared with every member of your crew.
-- **On-set AI filming.** Connect the [Core Studio](https://imcore.ai/core-studio.html) machine box to your cameras and see the result in five minutes.
+- **[Made for teams.](https://imcore.ai/core-studio.html#teams)** Import your script and the agents build the **Story Atlas**, shared with every member of your crew.
+- **[On-set AI filming.](https://imcore.ai/core-studio.html#onset)** Connect the machine box to your cameras and see the result in five minutes.
+- **[24 agents, every craft.](https://imcore.ai/core-studio.html#agents)** Each agent carries the knowledge of people who have actually done the job.
 
 <p align="center">
   <a href="https://imcore.ai/core-studio.html"><b>Launching 30 November 2026 — reserve your account for DOUBLE credits →</b></a>
