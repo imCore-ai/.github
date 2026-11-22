@@ -19,6 +19,31 @@
 
 ---
 
+## Coreplay: free and open source
+
+<p align="center">
+  <a href="https://github.com/imCore-ai/coreplay"><img src="images/coreplay.png" alt="Coreplay: every frame, exactly as it is" width="640"></a>
+</p>
+
+<p align="center">
+  A fast player for movies and image sequences, made for film and VFX.<br>
+  Every video format, EXR / DPX sequences at their real frame rate, OpenColorIO colour,<br>
+  A/B compare, live grading and frame-accurate export. No sign-up, no ads.
+</p>
+
+<p align="center">
+  <b>Download:</b>
+  <a href="https://github.com/imCore-ai/coreplay/releases/latest/download/Coreplay-Windows-Setup.exe">Windows</a> ·
+  <a href="https://github.com/imCore-ai/coreplay/releases/latest/download/Coreplay-macOS-arm64.dmg">macOS</a> ·
+  <a href="https://github.com/imCore-ai/coreplay/releases/latest/download/Coreplay-Linux-x86_64.AppImage">Linux</a>
+  &nbsp;|&nbsp;
+  <a href="https://imcore.ai/coreplay.html">Website</a> ·
+  <a href="https://github.com/imCore-ai/coreplay">Source code</a> ·
+  <a href="https://github.com/imCore-ai/coreplay">★ Star it on GitHub</a>
+</p>
+
+---
+
 ## What is Core Studio?
 
 [**Core Studio**](https://imcore.ai/core-studio.html) is a complete, end-to-end solution for
@@ -78,7 +103,7 @@ animation, matchmove, rotomation and Houdini FX.
 
 | Project | What it is |
 |---|---|
-| [**Coreplay**](https://github.com/imCore-ai/coreplay) | A fast media player for film and VFX review: every video format, plus EXR / DPX image sequences, with OpenColorIO colour, A/B compare, live grading and frame-accurate export. Made by the team behind [Core Studio](https://imcore.ai/core-studio.html). |
+| [**Coreplay**](https://github.com/imCore-ai/coreplay) | A fast media player for film and VFX review: every video format, plus EXR / DPX image sequences, with OpenColorIO colour, A/B compare, live grading and frame-accurate export. Made by the team behind [Core Studio](https://imcore.ai/core-studio.html). [Website](https://imcore.ai/coreplay.html) |
 
 ## Work with us
 
